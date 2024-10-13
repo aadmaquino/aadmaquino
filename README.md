@@ -38,7 +38,12 @@ An Italian-Brazilian Software Engineer who loves Football ~(or Soccer if you are
   </tbody>
 </table>
 
-<hr>
+<br>
+
+[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadmaquino&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadmaquino&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 <div>
   <a href="https://www.linkedin.com/in/aadmaquino" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
