@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=aadmaquino&color=blue&style=for-the-badge)
+
 ## Hi, I'm Antônio Augusto Duarte 🇧🇷 🇮🇹
 
 An Italian-Brazilian Software Engineer who loves Football ~(or Soccer if you are from USA)~ and bodybuilding.
@@ -58,7 +60,3 @@ An Italian-Brazilian Software Engineer who loves Football ~(or Soccer if you are
   <a href="https://www.twitch.tv/aadm_aquino" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
   <a href="https://www.steamcommunity.com/id/aadm_aquino" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 </div>
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=aadmaquino&color=79b8ff)
