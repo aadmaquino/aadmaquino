@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=aadmaquino&color=blue&style=for-the-badge)
 
-## Hi, I'm Antônio Augusto Duarte 🇮🇹🇧🇷
+## Hi, I'm Antônio Augusto Duarte
 
-An Italian-Brazilian Software Engineer who loves Football ⚽ ~(or Soccer if you are from USA)~, Games 🎮 and Bodybuilding 🏋️
+An Italian-Brazilian 🇮🇹🇧🇷 Software Engineer 💻 who loves Football ⚽ ~(or Soccer if you are from USA)~, Games 🎮 and Bodybuilding 🏋️
 
 #### Currently working with:
 
